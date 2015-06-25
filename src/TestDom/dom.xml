@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<books>
+	<book isbn="0001">
+		<name>《水浒传》</name>>
+		<price>81</price>>
+		<author>dxb1</author>>
+		<year>2001</year>>
+	</book>
+	<book isbn="0002">
+		<name>《水浒传2》</name>>
+		<price>82</price>>
+		<author>dxb1</author>>
+		<year>2002</year>>
+	</book>
+	<book isbn="0003">
+		<name>《水浒传3》</name>>
+		<price>83</price>>
+		<author>dxb3</author>>
+		<year>2003</year>>
+	</book>
+</books>
